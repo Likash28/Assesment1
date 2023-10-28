@@ -1,6 +1,6 @@
 # YouTube Channel Scraper 📺🕵️
 
-The YouTube Channel Scraper is a Python script that empowers you to effortlessly extract YouTube channel links from Google search results. Say goodbye to manual searching and hello to automation!
+The YouTube Channel Scraper is a Python script that empowers you to extract YouTube channel links from Google search results effortlessly. Say goodbye to manual searching and hello to automation!
 
 ## How It Works 🛠️
 
